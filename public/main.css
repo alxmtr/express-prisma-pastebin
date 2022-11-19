@@ -1,0 +1,8 @@
+.button {
+  position: absolute;
+  right: 25px;
+  bottom: 25px;
+  padding: 8px;
+  background-color: #ccc;
+  border-radius: 5px;
+}
